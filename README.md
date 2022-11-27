@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DanusriEswaran
-- 🌱 I’m currently pursuing MSC Software Systems
+- 🌱 I’m currently pursuing MSc Software Systems
 
 
 <!---
