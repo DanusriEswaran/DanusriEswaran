@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @DanusriEswaran
 - 🌱 I’m currently pursuing MSc Software Systems
+- Passionate about coding, collaborating, and bringing ideas to life through technology.
+- 
 
 
 <!---
